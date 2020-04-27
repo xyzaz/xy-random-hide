@@ -7,7 +7,7 @@ Show/hide strings using JS, PHP or both. It can be also used to generate the sam
 #### Warning
 Intended userage is to hide strings from an accidental revealing when you don't need to use true encryption. Keep in mind that hidden strings will NOT be cryptographically secure. You should NOT use this to protect any sensitive data.
 
-### Basic userage php:
+### Basic usage php:
 
 	use \XyZaz\CXyRndHide;
 
@@ -20,7 +20,7 @@ Intended userage is to hide strings from an accidental revealing when you don't 
 	$sString = $oHide ->show( $sString );
 	echo $sString . '<br>';
 
-### Basic userage javascript:
+### Basic usage javascript:
 
 	var oHide, sString;
 	
@@ -70,7 +70,7 @@ If you want to get the same squence of numbers you need to call srand first
 	uRandom = oHide.rand( 31 );
 	console.log( 'random number 0-2147483647: %d', uRandom );
 
-### Advanced userage
+### Advanced usage
 
 ------------
 
