@@ -19,7 +19,7 @@
 // Hooray! It's independent!
 //
 // -------------------------------------------------------------------------- //
-// USERAGE:
+// USAGE:
 //
 // oHideA = XyRndHide( 'passphrase' );
 //
@@ -63,7 +63,7 @@
 // uRandom = oHideA.rand( 31 );
 // console.log( 'random number 0-2147483647: %d', uRandom );
 //
-// ADVANCED USERAGE:
+// ADVANCED USAGE:
 //
 // XyRndHide( sPin, bRandomize, hiSeed, loSeed )
 //
