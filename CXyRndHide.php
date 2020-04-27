@@ -21,7 +21,7 @@
 // Hooray! It's independent!
 //
 // -------------------------------------------------------------------------- //
-// USERAGE:
+// USAGE:
 //
 // $oHideA = new CXyRndHide( 'passphrase' );
 //
@@ -65,7 +65,7 @@
 // $uRandom = $oHideA ->rand( 31 );
 // echo 'random number 0-2147483647: ' . $uRandom . '<br>';
 //
-// ADVANCED USERAGE:
+// ADVANCED USAGE:
 //
 // new CXyRndHide( $sPin, $bRandomize, $hiSeed, $loSeed )
 //
