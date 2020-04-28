@@ -8,6 +8,10 @@ Show/hide strings using JS, PHP or both. It can be also used to generate the sam
 
 `Hello! <=> l3lrr2rm6opiilh28bfi568j`
 
+`Cześć! <=> ucpmb2h909ipe6gosfkp52b7`
+
+`你好! <=> cdgtubv63k8bv76kjr`
+
 #### Warning
 Intended usage is to hide strings from an accidental revealing when you don't need to use true encryption. But keep in mind that hidden strings will NOT be truly cryptographically secure. You should NOT use this to protect any sensitive data.
 
