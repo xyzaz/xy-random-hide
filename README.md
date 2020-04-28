@@ -5,6 +5,7 @@ version: 0.1b (beta)
 Show/hide strings using JS, PHP or both. It can be also used to generate the same sequence od pseudorandom numbers in JS and PHP. Unicode is supported!
 
 `Hello! <=> 56gjqtmguqnufnnpu8vgo61r`
+
 `Hello! <=> l3lrr2rm6opiilh28bfi568j`
 
 #### Warning
