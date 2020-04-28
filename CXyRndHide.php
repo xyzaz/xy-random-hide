@@ -657,6 +657,9 @@ class CXyRndHide
 	
 	public function show ( $a_sHidden )
 	{
+		// Notice: UTF-8
+		$a_sHidden = \mb_convert_encoding( $a_sHidden, 'UTF-8' );
+		
 		// sHidden has to be ascii string
 		$nStr = \strlen( $a_sHidden );
 		
