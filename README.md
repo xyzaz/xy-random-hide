@@ -1,6 +1,6 @@
 # xy-random-hide
 ##### CXyRndHide.php | XyRndHide.js
-version: 0.1b (beta)
+version: 0.11b (beta)
 
 Show/hide strings using JS, PHP or both. It can be also used to generate the same sequence od pseudorandom numbers in JS and PHP. Unicode is supported!
 
